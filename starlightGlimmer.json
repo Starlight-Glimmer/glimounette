@@ -2,7 +2,7 @@
     { 
         "author" : "Shinki", 
         "name" : "Starlight Glimmer", 
-        "keyWords" : "starlight,glimmer", 
+        "keyWords" : "starlight", 
         "version" : "1.0.0", 
         "dofusVersion" : "2.37", 
         "description" : "Thème basé sur le personnage de Starlight Glimmer.", 
