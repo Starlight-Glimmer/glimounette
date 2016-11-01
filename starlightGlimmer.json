@@ -1,12 +1,12 @@
 [ 
     {
         "author" : "Shinki", 
-        "name" : "starlightGlimmer", 
+        "name" : "Starlight Glimmer", 
         "keyWords" : "starlight,glimmer", 
-        "version" : "1.0.2", 
+        "version" : "1.0.3", 
         "dofusVersion" : "2.37", 
         "description" : "Thème basé sur le personnage de Starlight Glimmer.", 
-        "url" : "https://github.com/Starlight-Glimmer/glimounette/raw/master/starlightGlimmer-1.0.2.zip", 
+        "url" : "https://github.com/Starlight-Glimmer/glimounette/raw/master/starlightGlimmer-1.0.3.zip", 
         "previewUrl" : "http://puu.sh/rX6bG/37cb3a3def.png", 
         "creationDate" : "27/10/2016", 
         "modificationDate" : "27/10/2016" 
